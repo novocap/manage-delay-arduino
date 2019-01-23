@@ -1,0 +1,3 @@
+# Ignore this files and folders to download with zip version
+.gitignore export-ignore
+.gitattributes export-ignore
