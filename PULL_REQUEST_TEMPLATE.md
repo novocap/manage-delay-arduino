@@ -8,5 +8,4 @@
 1. __List the issues linked to the Pull Request below:__
 <!-- Use the "Close #IssueNumber" option to close issues linked to merge by an approver. -->
 1. __Additional information to consider:__
-
 <!-- It can be assigned at this time or later the person or persons that require its analysis, and who are involved in this specific development. You can label the type of problem or improvement proposal that is being proposed. If there is a related project, please assign it. If it is related to an existing goal, you can also reference it now. -->
